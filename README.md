@@ -5,7 +5,7 @@ Just a CRUD Micropost application made during the course "The Modern Javascript 
 Install npm:
 
 ```
-npm-install
+npm install
 ```
 
 Build the application
